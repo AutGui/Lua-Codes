@@ -1,7 +1,7 @@
 # Lua Codes
 <br>
 
-## Powered by:
+## Held by:
 <br>
 
 SlashExecuteStudios
