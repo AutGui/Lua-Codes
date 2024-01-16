@@ -18,7 +18,11 @@ Copy and paste the codes onto your script.
 ## Features
 <br>
 
-- Lua codes for your usage! Use them in your game.
-- Learning! I explain how the scripts work.
+- Lua codes for your usage! Use them in your game. :scroll::arrow_right::earth_americas:
+- Learning! I explain how the scripts work so you can make your own. :memo::arrow_right::earth_americas:
 <br>
 
+## Your good to go!
+<br>
+
+I hope this helps!
