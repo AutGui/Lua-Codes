@@ -1,2 +1,24 @@
-# Lua-Codes
-Some lua codes, copy and paste them onto your script (or change some things)
+# Lua Codes
+<br>
+
+## Powered by:
+<br>
+
+SlashExecuteStudios
+
+## How to use
+<br>
+
+Copy and paste the codes onto your script.
+<br>
+> [!WARNING]
+> Changes might need to be made to match your code.
+<br>
+
+## Features
+<br>
+
+- Lua codes for your usage! Use them in your game.
+- Learning! I explain how the scripts work.
+<br>
+
