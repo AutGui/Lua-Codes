@@ -1,6 +1,9 @@
 # Lua Codes
 <br>
 
+<img height="360" width="360" src="https://static-00.iconduck.com/assets.00/lua-icon-256x256-w2zsf5op.png" />
+<br>
+
 ## Held by:
 <br>
 
