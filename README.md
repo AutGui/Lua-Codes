@@ -25,4 +25,4 @@ Copy and paste the codes onto your script.
 ## Your good to go!
 <br>
 
-I hope this helps!
+Hope this helps!
