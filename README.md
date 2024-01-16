@@ -4,7 +4,9 @@
 ## Held by:
 <br>
 
+<img height="360" width="360" src="https://cdn.discordapp.com/attachments/1169933021152022528/1196810308640063528/d6b020b6da7ef848523cadce4b7e72ee.png?ex=65b8fb75&is=65a68675&hm=2861acdc59afdd610746b359674eae294b2e29c630ef80c597c1672e05162cea&" />
 SlashExecuteStudios
+<br>
 
 ## How to use
 <br>
