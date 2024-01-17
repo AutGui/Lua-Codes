@@ -36,13 +36,15 @@ Copy and paste the codes onto your script.
 
 <br>
 
-- ${\textsf{\color{lightgreen}Extremely easy}}$ (Extremely easy script)
-- ${\textsf{\color{green}Easy}}$ (Easy script) 
-- ${\textsf{\color{blue}Normal}}$ (Normal difficulty)
-- ${\textsf{\color{yellow}Medium}}$ (A bit difficult)
-- ${\textsf{\color{red}Difficult}}$ (Difficult script)
-- ${\textsf{\color{darkred}Hard}}$ (Hard script)
-- ${\textsf{\color{purple}Very Hard}}$ (Very Hard script)
+| **Colors and names** | **Meanings** |
+| -- | -- |
+| ${\textsf{\color{lightgreen}Extremely easy}}$ | Extremely easy script |
+| ${\textsf{\color{green}Easy}}$ | Easy script |
+| ${\textsf{\color{blue}Normal}}$ | Normal difficulty |
+| ${\textsf{\color{yellow}Medium}}$ | A bit difficult |
+| ${\textsf{\color{red}Difficult}}$ | Difficult script |
+| ${\textsf{\color{darkred}Hard}}$ | Hard script |
+| ${\textsf{\color{purple}Very Hard}}$ | Very Hard script |
 
 <br>
 
@@ -50,13 +52,15 @@ Copy and paste the codes onto your script.
 
 <br>
 
-- ${\textsf{\color{lightgreen}Extremely small}}$ (0-10 lines.)
-- ${\textsf{\color{green}Small}}$ (0-30 lines)
-- ${\textsf{\color{blue}Normal sized}}$ (0-50 lines)
-- ${\textsf{\color{yellow}Medium sized}}$ (0-70 lines)
-- ${\textsf{\color{red}Big}}$ (0-100 lines)
-- ${\textsf{\color{darkred}Huge}}$ (0-200 lines)
-- ${\textsf{\color{purple}Gigantic}}$ (200+ lines)
+| **Colors and Names** | **Number of lines** |
+| -- | -- |
+| ${\textsf{\color{lightgreen}Extremely small}}$ | 0-10 lines |
+| ${\textsf{\color{green}Small}}$ | 0-30 lines |
+| ${\textsf{\color{blue}Normal sized}}$ | 0-50 lines |
+| ${\textsf{\color{yellow}Medium sized}}$ | 0-70 lines |
+| ${\textsf{\color{red}Big}}$ | 0-100 lines |
+| ${\textsf{\color{darkred}Huge}}$ | 0-200 lines |
+|${\textsf{\color{purple}Gigantic}}$ | 200+ lines |
 
 <br>
 
@@ -64,13 +68,15 @@ Copy and paste the codes onto your script.
 
 <br>
 
-- ${\textsf{\color{lightgreen}Nothing}}$ (No things to do outside the script)
-- ${\textsf{\color{green}A little}}$ (Just a little ammount of stuff to do outside the script)
-- ${\textsf{\color{blue}Some}}$ (Some things to do outside the script)
-- ${\textsf{\color{yellow}A normal ammount}}$ (A normal ammount of things to do outside the script)
-- ${\textsf{\color{red}A good ammount}}$ (A good ammount of things to do outside the script)
-- ${\textsf{\color{darkred}A lot}}$ (A lot of things to do outside the script)
-- ${\textsf{\color{purple}A huge ammount}}$ (A huge ammount of things to do outside the script)
+| **Colors and Names** | **Meanings** |
+| -- | -- |
+| ${\textsf{\color{lightgreen}Nothing}}$ | No things to do outside the script |
+| ${\textsf{\color{green}A little}}$ | Just a little ammount of stuff to do outside the script |
+| ${\textsf{\color{blue}Some}}$ | Some things to do outside the script |
+| ${\textsf{\color{yellow}A normal ammount}}$ | A normal ammount of things to do outside the script |
+| ${\textsf{\color{red}A good ammount}}$ | A good ammount of things to do outside the script |
+| ${\textsf{\color{darkred}A lot}}$ | A lot of things to do outside the script |
+| ${\textsf{\color{purple}A huge ammount}}$ | A huge ammount of things to do outside the script |
 
 <br>
 
