@@ -6,27 +6,11 @@
 
 <br>
 
-#### By script difficulty:
-
-<br>
-
-${\textsf{\color{lightgreen}Extremely easy}}$
-
-<br>
-
-#### By script size:
-
-<br>
-
-${\textsf{\color{lightgreen}Extremely small}}$
-
-<br>
-
-#### By ammount of things to do outside the script:
-
-<br>
-
-${\textsf{\color{lightgreen}Nothing}}$
+| Types | Ranks |
+| -- | -- |
+| By script difficulty | ${\textsf{\color{lightgreen}Extremely easy}}$
+| By script size | ${\textsf{\color{lightgreen}Extremely small}}$ |
+| By ammount of things to do outside the script: | ${\textsf{\color{lightgreen}Nothing}}$
 
 <br>
 
