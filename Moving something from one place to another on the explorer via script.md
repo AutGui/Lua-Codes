@@ -2,7 +2,7 @@
 
 <br>
 
-## Difficulty rank:
+## Difficulty ranks:
 
 <br>
 
