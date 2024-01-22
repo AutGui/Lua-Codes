@@ -49,7 +49,7 @@ Target.Parent = MoveTo
 
 <br>
 
-This script moves a script called "Going to be moved" from ReplicatedStorage to the StarterPlayerScripts. Here is an image for more context.
+This script moves a script called "Going to be moved" from ReplicatedStorage to the StarterPlayerScripts. Here is an image for more context:
 
 <br>
 
