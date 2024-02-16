@@ -19,7 +19,7 @@
 <br>
 
 ``` lua
--- Moving something on the explorer using :WaitForChild() and confirming it via script
+-- Moving something on the explorer using :WaitForChild() and confirming it using :FindFirstChild() via script
 
 local StarterPlayer = game.StarterPlayer
 local StarterPlayerScripts = game.StarterPlayer.StarterPlayerScripts
@@ -50,7 +50,7 @@ end
 <br>
 
 ``` lua
--- Moving something on the explorer using :WaitForChild() and confirming it via script
+-- Moving something on the explorer using :WaitForChild() and confirming it using :FindFirstChild() via script
 
 local StarterPlayer = game.StarterPlayer
 local StarterPlayerScripts = game.StarterPlayer.StarterPlayerScripts
@@ -83,7 +83,7 @@ This script waits for a script called `Going to be moved` to get into a folder c
 Let's do this by steps:
 
 ``` lua
--- Moving something on the explorer using :WaitForChild() and confirming it via script
+-- Moving something on the explorer using :WaitForChild() and confirming it using :FindFirstChild() via script
 ```
 
 On line 1 I have a comment, it is not obligatory to place comments on scripts, I used it so I can understand what this script does, it does not affect the code, it's just like taking a note!
